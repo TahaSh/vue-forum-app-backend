@@ -16,5 +16,6 @@ PORT=5000
 SERVER_URL=http://localhost:5000
 ```
 Set `SERVER_URL` to the base URL that this project runs on.
+
 3. Run `npm install`
 4. Run `npm run dev` (or `npm run start` for production mode)
